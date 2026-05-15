@@ -1,34 +1,51 @@
 # envyforyou.github.io
 
-personal site for denya sonata (envy). built with pure HTML, CSS, and vanilla JS — no frameworks, no build tools.
+personal site for **denya sonata (envy)** — built with pure HTML, CSS, and vanilla JS. no frameworks, no build tools, no nonsense.
 
-🌐 [envyforyou.github.io](https://envyforyou.github.io)
+🌐 **Live site →** [envyforyou.github.io](https://envyforyou.github.io)
+
+---
+
+## about
+
+a personal hub for my art, animations, and projects. terminal-themed aesthetic because i think it looks cool and i'm not taking criticism.
+
+---
+
+## built with
+
+| | |
+|---|---|
+| HTML5 | structure |
+| CSS3 | styling |
+| Vanilla JavaScript | logic |
+| Google Fonts | Press Start 2P, VT323, Share Tech Mono |
+| GitHub Pages | hosting |
 
 ---
 
 ## credits & attributions
 
 **fonts**
-- [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) — Cody "CodeMan38" Boisclair, via Google Fonts (OFL)
-- [VT323](https://fonts.google.com/specimen/VT323) — Peter Hull, via Google Fonts (OFL)
-- [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono) — Carrois Apostrophe, via Google Fonts (OFL)
+- [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) — Cody "CodeMan38" Boisclair (OFL)
+- [VT323](https://fonts.google.com/specimen/VT323) — Peter Hull (OFL)
+- [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono) — Carrois Apostrophe (OFL)
 
 **design inspiration**
-- Steam store page layout — Valve Corporation
 - Catppuccin color philosophy — [catppuccin](https://github.com/catppuccin/catppuccin)
-
-**tools used**
-- [rEFInd](http://www.rodsbooks.com/refind/) Catppuccin theme — referenced for aesthetic direction
-- No external JS libraries — everything is vanilla
 
 ---
 
 ## license
 
-all artwork, characters, and animations on this site are original works by **denya sonata (envy/denya)** and may not be reused, reproduced, or redistributed without explicit permission.
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-the site's source code (HTML/CSS/JS) is available for reference but not licensed for reuse.
+all artwork, characters, and animations are original works by **denya sonata (envy)** and are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — you may not repost, modify, or use commercially without explicit permission.
+
+the site's source code is proprietary — available for reference only, not licensed for reuse.
+
+see [LICENSE](LICENSE) for full details.
 
 ---
 
-> site is currently a wip — content and features are subject to change.
+> wip — things change when i feel like it
