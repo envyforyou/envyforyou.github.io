@@ -7,16 +7,46 @@
 <link rel="icon" href="assets/hero/small-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323:wght@400&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323:wght@400&family=Share Tech Mono&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<style>
+  .wip-wrap {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    text-align: center;
+    padding: 40px;
+  }
+  .wip-title {
+    font-family: var(--font-pixel);
+    font-size: clamp(14px, 3vw, 22px);
+    color: var(--green);
+    text-shadow: 0 0 16px var(--green-dim);
+    animation: glitch 4s infinite;
+  }
+  .wip-sub {
+    font-family: var(--font-mono);
+    font-size: 14px;
+    color: var(--gray);
+  }
+  .wip-cursor {
+    color: var(--green);
+    animation: blink 0.8s step-end infinite;
+  }
+</style>
 </head>
 <body>
 
 <div class="scanlines"></div>
-  
-<div id="main-site" class="hidden">
-  <p>what are you trying to do, actually?</p>
-  <p>i never sent you this default link ;-;</p>
+
+<div class="wip-wrap">
+  <p class="wip-title">DENYA SONATA</p>
+  <p class="wip-sub">site under construction — check back later<span class="wip-cursor">_</span></p>
+  <a href="/portfolio" class="btn btn-secondary" style="margin-top:8px">[ VIEW PORTFOLIO ]</a>
 </div>
 
 </body>
+</html>
